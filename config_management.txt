@@ -1,0 +1,1 @@
+Configuration Management keeps the software consistent and its integrity maintained during development
